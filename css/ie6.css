@@ -1,0 +1,23 @@
+.play {
+	background-image:none;
+ 	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/image-hover.png', sizingMethod='image');
+}
+
+a {
+
+	text-align: center;
+	text-transform: capitalize;
+	text-align: center;
+	position: center;
+	border-radius: 10px;
+	border-color: yellow;
+  }
+
+  div li a {
+	text-transform: capitalize;
+	text-align: center;
+	text-align: center;
+	text-transform: capitalize;
+	text-align: center;
+	position: center;
+  }

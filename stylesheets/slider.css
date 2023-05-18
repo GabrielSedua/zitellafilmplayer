@@ -1,0 +1,41 @@
+
+.wrapper {
+    width: 600px;
+    margin: 2 auto;
+    border-radius: 6px;
+    border: line;
+    padding: 30px 20px;
+    position: inherit;
+}
+
+
+#slider {
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+    margin: 30px auto;
+}
+
+.num {
+    width: 600px;
+    height: 400px;
+    float: left;
+    perspective-origin: center;
+    display: none;
+}
+
+.btnleft, .btnright {
+    padding: 10px 50px;
+    background-color: #F0F0F0;
+    margin-top: 30px;
+    text-decoration: none;
+    color: #666;
+}
+
+.btnleft {
+    float: left;
+}
+
+.btnright {
+    float: right;
+}
